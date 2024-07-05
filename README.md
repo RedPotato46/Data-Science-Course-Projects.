@@ -8,7 +8,9 @@ You are working for TerpBuy, a global business-to-consumer and business-to-busin
 Project Tasks
 
 SQL Query Execution: A PDF document containing the answers to Part I on the next segment.
+
 Connecting Python to SQL: A Jupyter Notebook containing the answers to Part II on the next segment.
+
 Executive Summary: A PDF document containing the answers to Part III on the next segment.
 
 
